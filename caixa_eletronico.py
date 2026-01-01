@@ -1,4 +1,4 @@
-#Projeto de caixa eletônico completo
+#Projeto de caixa eletrônico completo
 import time
 
 print('=================>Caixa eletrônico<=================')
@@ -57,5 +57,6 @@ while True:
         print('Opção inválida! Digite (1/2/3)')
 
     time.sleep(2)
+
 
 print('Obrigado por usar nosso banco!')
